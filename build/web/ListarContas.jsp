@@ -23,9 +23,9 @@
                     <hr>
                     <div class="table-responsive">
                         <table class="table table-borderless bg-light">
+                         <caption>Minhas Contas</caption>
                             <thead class="thead-light">
                                 <tr>
-                                    <!--<th scope="col">ID do produto</th>-->
                                     <th scope="col">Nome</th>
                                     <th scope="col">Banco</th>
                                     <th scope="col">Agência</th>
@@ -55,9 +55,9 @@
                             </tbody>
                         </table>
                         <table class="table table-borderless bg-light">
+                         <caption>Saldo</caption>
                             <thead class="thead-light">
                                 <tr>
-                                    <!--<th scope="col">ID do produto</th>-->
                                     <th scope="col">Saldo Total</th>
                                 </tr>
                             </thead>

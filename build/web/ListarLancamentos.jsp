@@ -23,9 +23,9 @@
                     <hr>
                     <div class="table-responsive">
                         <table class="table table-borderless bg-light">
+                         <caption>Minhas movimentações</caption>
                             <thead class="thead-light">
                                 <tr>
-                                    <!--<th scope="col">ID do produto</th>-->
                                     <th scope="col">Conta</th>
                                     <th scope="col">Categoria</th>
                                     <th scope="col">Valor</th>

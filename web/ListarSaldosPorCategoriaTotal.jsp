@@ -26,10 +26,9 @@
                     <hr>
                     <div class="table-responsive">
                         <table class="table table-borderless bg-light">
-                        
+                         <caption>Balancete</caption>
                             <thead class="thead-light">
                                 <tr>
-                                    <!--<th scope="col">ID do produto</th>-->
                                     <th scope="col">Categoria</th>
                                     <th scope="col">Creditado</th>
                                     <th scope="col">Debitado</th>
@@ -59,9 +58,9 @@
                             </tbody>
                         </table>
                             <table class="table table-borderless bg-light">
+                             <caption>Balancete</caption>
                             <thead class="thead-light">
                                 <tr>
-                                    <!--<th scope="col">ID do produto</th>-->
                                     <th scope="col">Creditado Total</th>
                                     <th scope="col">Debitado Total</th>
                                     <th scope="col">Saldo Total</th>

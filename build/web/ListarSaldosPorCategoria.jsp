@@ -33,10 +33,10 @@
                     %>
                     <div class="table-responsive">
                         <table class="table table-borderless bg-light">
+                         <caption>Dados da conta</caption>
                             <hr><h2 style="background-color: rgb(201, 201, 201); color: black;">Conta: <%=aux.getNome_conta()%> - Saldo: <%=usuariodao.getSaldoContas(id_usu, aux.getId())%></h2>
                             <thead class="thead-light">
                                 <tr>
-                                    <!--<th scope="col">ID do produto</th>-->
                                     <th scope="col">Categoria</th>
                                     <th scope="col">Creditado</th>
                                     <th scope="col">Debitado</th>

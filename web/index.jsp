@@ -10,7 +10,7 @@
     <body>
         <%@include file="Menu.jsp" %>
  
-        <img class="img-fluid" src="images/bemvindo.png">
+        <img class="img-fluid" src="images/bemvindo.png" alt="bemvindo">
         <div class="container container-index">
             <div class="container container-texto centralizar">
                 <br>
